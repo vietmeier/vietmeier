@@ -1,16 +1,13 @@
-### Hi there 👋
+### Readme 👋
 
-<!--
-**vietmeier/vietmeier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Kommentar-->
+**vietmeier/vietmeier** ist mein ✨ _Test_ ✨ repository  `README.md` (diese Datei) erscheint in  meinem GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Ich lerne den Umgang mit GitHub.
+- 👯 Ich freue mich über Ihr Interesse.
+- 🤔 Bitte machen Sie mich auf meine Fehler aufmerksam.
+
+- 📫 Ihre Kommentare sind sehr willkommen.
+- 😁 Vielen Dank.
+
